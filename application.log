@@ -1,0 +1,26 @@
+2020-09-20 21:36:37,851  INFO [main] StepDefinitions:20 - ******Launch********
+2020-09-20 21:38:33,283  INFO [main] StepDefinitions:20 - ******Launch********
+2020-09-20 21:40:11,816  INFO [main] StepDefinitions:20 - ******Launch********
+2020-09-20 21:42:28,220  INFO [main] StepDefinitions:20 - ******Launch********
+2020-09-20 22:15:22,232  INFO [main] StepDefinitions:20 - ******Launch********
+2020-09-20 22:15:53,597  INFO [main] StepDefinitions:49 - Chrome driver got loaded
+2020-09-20 22:16:12,987  INFO [main] StepDefinitions:24 - Goibibo site is opened
+2020-09-20 22:16:24,492  INFO [main] StepDefinitions:79 - roundTrip oneway triptype is selected
+2020-09-20 22:16:27,503  INFO [main] StepDefinitions:103 - From selected successfully
+2020-09-20 22:16:29,617  INFO [main] StepDefinitions:123 - To selected successfully
+2020-09-20 22:16:31,133  INFO [main] StepDefinitions:151 - Departure got selected successfully
+2020-09-20 22:16:31,836  INFO [main] StepDefinitions:178 - Return got selected successfully
+2020-09-20 22:16:32,912  INFO [main] StepDefinitions:199 - Passenger details got selected successfully
+2020-09-20 22:16:41,693  INFO [main] StepDefinitions:233 - price got sorted
+2020-09-20 22:16:44,412  INFO [main] StepDefinitions:260 - Flight got Booked
+2020-09-20 22:16:44,817  INFO [main] StepDefinitions:333 - From Element present in review page 
+2020-09-20 22:16:48,904  INFO [main] StepDefinitions:348 - To Element present in review page 
+2020-09-20 22:16:49,044  INFO [main] StepDefinitions:363 - Date Element present in review page 
+2020-09-20 22:16:49,044  INFO [main] StepDefinitions:365 - Month Element present in review page 
+2020-09-20 22:16:49,095  INFO [main] StepDefinitions:382 - From Element present in review page 
+2020-09-20 22:16:49,131  INFO [main] StepDefinitions:397 - To Element present in review page 
+2020-09-20 22:16:49,162  INFO [main] StepDefinitions:412 - Date Element present in review page 
+2020-09-20 22:16:49,163  INFO [main] StepDefinitions:414 - Month Element present in review page 
+2020-09-20 22:17:05,929  INFO [main] StepDefinitions:118 - Browser is not closed
+2020-09-20 22:17:05,929 ERROR [main] StepDefinitions:119 - Browser is closed
+2020-09-20 22:17:05,929  INFO [main] StepDefinitions:120 - ******Launch end********
